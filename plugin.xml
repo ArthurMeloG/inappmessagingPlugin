@@ -26,7 +26,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     <!-- <dependency id="cordova-outsystems-firebase-core" url="https://github.com/OutSystems/cordova-outsystems-firebase-core.git#1.0.1"/> -->
 
     <platform name="android">
-        <preference name="ANDROID_FIREBASE_ANALYTICS_VERSION" default="21.1.1"/>
+        <preference name="ANDROID_FIREBASE_ANALYTICS_VERSION" default="21.2.0"/>
 
         <!-- <hook type="before_plugin_install" src="hooks/android/build_gradle_add_dependency.js" /> -->
 
