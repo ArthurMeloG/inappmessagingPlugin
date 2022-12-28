@@ -49,7 +49,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         <!-- <dependency id="cordova-support-android-plugin" version="~1.0.0"/> -->
 
         <!-- Depend on latest version of GCM from play services -->
-        <framework src="com.google.firebase:firebase-inappmessaging-display" />
+        <framework src="com.google.firebase:firebase-inappmessaging-display:20.2.0" />
         <!-- Depend on v21 of appcompat-v7 support library -->
         <framework src="com.google.firebase:firebase-analytics:$ANDROID_FIREBASE_ANALYTICS_VERSION" />
         <!-- <source-file src="src/android/FirebaseAnalyticsPlugin.java"
