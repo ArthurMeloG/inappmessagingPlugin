@@ -5,7 +5,7 @@ FirebaseInappmessaging.install = function () {
     window.plugins = {};
   }
   window.plugins.FirebaseInappmessaging = new FirebaseInappmessaging();
-  return window.plugins.toastyPlugin;
+  return window.plugins.FirebaseInappmessaging;
 };
 
 cordova.addConstructor(FirebaseInappmessaging.install);
