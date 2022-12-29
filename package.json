@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArthurMeloG/ToastyPlugin"
+    "url": "https://github.com/ArthurMeloG/inappmessagingPlugin"
   },
   "keywords": [
     "Toast",
@@ -23,7 +23,7 @@
   "author": "ArthurMeloG>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stanidesis/toastyplugin/issues"
+    "url": "https://github.com/ArthurMeloG/inappmessagingPlugin"
   },
-  "homepage": "https://github.com/ArthurMeloG/ToastyPlugin"
+  "homepage": "https://github.com/ArthurMeloG/inappmessagingPlugin"
 }
